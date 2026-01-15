@@ -1,0 +1,18 @@
+# E-commerce Automation 50-Day Project
+# Python Dependencies
+
+# This project currently uses only Python's standard library.
+# No external packages are required.
+
+# Python version: 3.9+
+
+# Standard library modules used:
+# - decimal (for precise currency calculations)
+# - gettext (for catalog/internationalization)
+
+# To set up the development environment:
+# 1. Create a virtual environment: python -m venv venv
+# 2. Activate it:
+#    - On Linux/Mac: source venv/bin/activate
+#    - On Windows: venv\Scripts\activate
+# 3. Install any future dependencies: pip install -r requirements.txt
